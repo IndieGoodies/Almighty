@@ -1,4 +1,4 @@
-<img src="images/AppIcon.png" width="200" alt="App icon" align="left"/>
+<img src="https://indiegoodies.com/icons/almighty.png" width="200" alt="App icon" align="left"/>
 
 <div>
     <h2>Almighty - Mac Tweaks & Utilities</h2>
